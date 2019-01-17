@@ -1,0 +1,2918 @@
+[
+ {
+   "Subject ID [enum]": "321201128-2",
+   "SBP (Systolic Blood Pressure) [float]": 157.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 40.43,
+   "Body mass index [float]": 18.491124260355,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412101013-2",
+   "SBP (Systolic Blood Pressure) [float]": 136,
+   "Gender (enum)": 1,
+   "Age, years [float]": 9.16,
+   "Body mass index [float]": 34.765625,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371109017-1",
+   "SBP (Systolic Blood Pressure) [float]": 153.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 40.54,
+   "Body mass index [float]": 22.0317256849864,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "321201128-1",
+   "SBP (Systolic Blood Pressure) [float]": 135.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 50.81,
+   "Body mass index [float]": 25.8166302126286,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321201127-1",
+   "SBP (Systolic Blood Pressure) [float]": 156.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 63,
+   "Body mass index [float]": 23.7740932824979,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412101049-2",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 32.23,
+   "Body mass index [float]": 23.4468990786354,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321201121-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 25.860205247277,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412101049-1",
+   "SBP (Systolic Blood Pressure) [float]": 155,
+   "Gender (enum)": 2,
+   "Age, years [float]": 55.44,
+   "Body mass index [float]": 25.3252157973983,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421204081-2",
+   "SBP (Systolic Blood Pressure) [float]": 180.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 11.51,
+   "Body mass index [float]": 30.4115132721112,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371109001-2",
+   "SBP (Systolic Blood Pressure) [float]": 229.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 61.07,
+   "Body mass index [float]": 31.7966681261859,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "321201083-1",
+   "SBP (Systolic Blood Pressure) [float]": 128.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 71.49,
+   "Body mass index [float]": 28.3945019330882,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421203044-1",
+   "SBP (Systolic Blood Pressure) [float]": 100,
+   "Gender (enum)": 1,
+   "Age, years [float]": 46.01,
+   "Body mass index [float]": 21.2553049698654,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321201126-1",
+   "SBP (Systolic Blood Pressure) [float]": 142,
+   "Gender (enum)": 2,
+   "Age, years [float]": 66.1,
+   "Body mass index [float]": 29.3381634066909,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232202007-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 51.9,
+   "Body mass index [float]": 27.7834476591334,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321201126-2",
+   "SBP (Systolic Blood Pressure) [float]": 148,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 21.1301068971777,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321201127-3",
+   "SBP (Systolic Blood Pressure) [float]": 123.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 20.64,
+   "Body mass index [float]": 23.6686390532544,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206102-2",
+   "SBP (Systolic Blood Pressure) [float]": 132.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 31.169394020436,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206126-3",
+   "SBP (Systolic Blood Pressure) [float]": 129.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 44.98,
+   "Body mass index [float]": 24.88329925543,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431104101-1",
+   "SBP (Systolic Blood Pressure) [float]": 126,
+   "Gender (enum)": 2,
+   "Age, years [float]": 58.28,
+   "Body mass index [float]": 23.9137285109065,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431104101-3",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 11.42,
+   "Body mass index [float]": 15.7099318188959,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232202102-1",
+   "SBP (Systolic Blood Pressure) [float]": 190,
+   "Gender (enum)": 2,
+   "Age, years [float]": 40.21,
+   "Body mass index [float]": 27.7777777777778,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206102-1",
+   "SBP (Systolic Blood Pressure) [float]": 150.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 66.48,
+   "Body mass index [float]": 30.5748351786631,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206009-2",
+   "SBP (Systolic Blood Pressure) [float]": 150.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 47.2,
+   "Body mass index [float]": 28.3737024221453,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371109012-2",
+   "SBP (Systolic Blood Pressure) [float]": 147.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 73.84,
+   "Body mass index [float]": 30.46875,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206125-1",
+   "SBP (Systolic Blood Pressure) [float]": 108.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 55.99,
+   "Body mass index [float]": 18.7304890738814,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206004-1",
+   "SBP (Systolic Blood Pressure) [float]": 139.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 49.64,
+   "Body mass index [float]": 37.5923789995301,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "232204013-2",
+   "SBP (Systolic Blood Pressure) [float]": 139.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 30.63,
+   "Body mass index [float]": 28.3553875236295,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206004-5",
+   "SBP (Systolic Blood Pressure) [float]": 178.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 23,
+   "Body mass index [float]": 27.4122377627855,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232204009-1",
+   "SBP (Systolic Blood Pressure) [float]": 139.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 40.87,
+   "Body mass index [float]": 21.5138585105239,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206128-2",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 40.28,
+   "Body mass index [float]": 25.5889728586295,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "232204013-1",
+   "SBP (Systolic Blood Pressure) [float]": 122.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 65.01,
+   "Body mass index [float]": 24.5017846519929,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206126-2",
+   "SBP (Systolic Blood Pressure) [float]": 158,
+   "Gender (enum)": 2,
+   "Age, years [float]": 81.75,
+   "Body mass index [float]": 27.7090348492839,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212102086-1",
+   "SBP (Systolic Blood Pressure) [float]": 124,
+   "Gender (enum)": 1,
+   "Age, years [float]": 61.46,
+   "Body mass index [float]": 26.3492920797809,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206101-1",
+   "SBP (Systolic Blood Pressure) [float]": 158.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 60.74,
+   "Body mass index [float]": 25.3134257538158,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431104061-1",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 57.69,
+   "Body mass index [float]": 23.6614386154678,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421202101-1",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 2,
+   "Age, years [float]": 58.79,
+   "Body mass index [float]": 23.2098765432099,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206127-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 50.98,
+   "Body mass index [float]": 29.949702789209,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206123-1",
+   "SBP (Systolic Blood Pressure) [float]": 122,
+   "Gender (enum)": 2,
+   "Age, years [float]": 46.45,
+   "Body mass index [float]": 21.7775533392248,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206121-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 19.64,
+   "Body mass index [float]": 22.0123622998988,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206121-1",
+   "SBP (Systolic Blood Pressure) [float]": 128,
+   "Gender (enum)": 2,
+   "Age, years [float]": 52.32,
+   "Body mass index [float]": 23.5876506234433,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232204008-1",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 40,
+   "Body mass index [float]": 20.7416163158959,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421203043-1",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 65.79,
+   "Body mass index [float]": 21.7797530365395,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232204001-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 42.88,
+   "Body mass index [float]": 24.4231883796895,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371102101-1",
+   "SBP (Systolic Blood Pressure) [float]": 145.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 67.67,
+   "Body mass index [float]": 31.4009661835749,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421203043-2",
+   "SBP (Systolic Blood Pressure) [float]": 142,
+   "Gender (enum)": 2,
+   "Age, years [float]": 14.52,
+   "Body mass index [float]": 23.0340828405966,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206122-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 60.04,
+   "Body mass index [float]": 21.4756223840725,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206122-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 64.15,
+   "Body mass index [float]": 25.1953125,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321206007-2",
+   "SBP (Systolic Blood Pressure) [float]": 173.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 67.44,
+   "Body mass index [float]": 21.609298192651,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451201122-1",
+   "SBP (Systolic Blood Pressure) [float]": 156.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 48.05,
+   "Body mass index [float]": 22.2368877305623,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431102047-1",
+   "SBP (Systolic Blood Pressure) [float]": 165,
+   "Gender (enum)": 1,
+   "Age, years [float]": 42.53,
+   "Body mass index [float]": 22.0892930810485,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "371102065-1",
+   "SBP (Systolic Blood Pressure) [float]": 123.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 52.57,
+   "Body mass index [float]": 26.2595847484332,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421201083-2",
+   "SBP (Systolic Blood Pressure) [float]": 125.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 76.62,
+   "Body mass index [float]": 21.944940474349,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451202121-1",
+   "SBP (Systolic Blood Pressure) [float]": 149.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 71.42,
+   "Body mass index [float]": 26.4705882352941,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211101069-2",
+   "SBP (Systolic Blood Pressure) [float]": 151,
+   "Gender (enum)": 2,
+   "Age, years [float]": 54.01,
+   "Body mass index [float]": 25.6567754412585,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372403042-1",
+   "SBP (Systolic Blood Pressure) [float]": 100,
+   "Gender (enum)": 1,
+   "Age, years [float]": 53.44,
+   "Body mass index [float]": 23.484972438657,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412104015-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 75.85,
+   "Body mass index [float]": 24.6132479456811,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431102041-1",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 81.73,
+   "Body mass index [float]": 25.303633313735,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321203124-1",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 2,
+   "Age, years [float]": 71.81,
+   "Body mass index [float]": 21.6714050377298,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "321203123-1",
+   "SBP (Systolic Blood Pressure) [float]": 130.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 44.84,
+   "Body mass index [float]": 21.2244476741686,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431102082-1",
+   "SBP (Systolic Blood Pressure) [float]": 122.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 64.5,
+   "Body mass index [float]": 21.3856092670973,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321203123-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 43.22,
+   "Body mass index [float]": 26.1214714763897,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431102082-2",
+   "SBP (Systolic Blood Pressure) [float]": 142.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 51.62,
+   "Body mass index [float]": 25.0076465688547,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371102104-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 53.97,
+   "Body mass index [float]": 27.0703125,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371203058-2",
+   "SBP (Systolic Blood Pressure) [float]": 180,
+   "Gender (enum)": 2,
+   "Age, years [float]": 54.73,
+   "Body mass index [float]": 19.9465132067331,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431102044-2",
+   "SBP (Systolic Blood Pressure) [float]": 148.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 62.27,
+   "Body mass index [float]": 22.3711144170647,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211101122-1",
+   "SBP (Systolic Blood Pressure) [float]": 141.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 25.8849845160017,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201125-2",
+   "SBP (Systolic Blood Pressure) [float]": 139.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 33.46,
+   "Body mass index [float]": 25.3631705225742,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231104061-2",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 23.95,
+   "Body mass index [float]": 20.5456936226167,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371202126-2",
+   "SBP (Systolic Blood Pressure) [float]": 120.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 43.09,
+   "Body mass index [float]": 24.3271922921804,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371108012-1",
+   "SBP (Systolic Blood Pressure) [float]": 159.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 32.0512820512821,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211204136-2",
+   "SBP (Systolic Blood Pressure) [float]": 148.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 74,
+   "Body mass index [float]": 27.0202747670956,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231104015-81",
+   "SBP (Systolic Blood Pressure) [float]": 200,
+   "Gender (enum)": 2,
+   "Age, years [float]": 45.51,
+   "Body mass index [float]": 20.242214532872,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208122-2",
+   "SBP (Systolic Blood Pressure) [float]": 154,
+   "Gender (enum)": 2,
+   "Age, years [float]": 64.26,
+   "Body mass index [float]": 28.575052724457,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208016-1",
+   "SBP (Systolic Blood Pressure) [float]": 131.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 8.55,
+   "Body mass index [float]": 28.4072176431276,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208009-2",
+   "SBP (Systolic Blood Pressure) [float]": 111.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 44.22,
+   "Body mass index [float]": 25.3162005542958,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321203121-3",
+   "SBP (Systolic Blood Pressure) [float]": 122,
+   "Gender (enum)": 1,
+   "Age, years [float]": 56.04,
+   "Body mass index [float]": 24.7731980539768,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208001-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 68.52,
+   "Body mass index [float]": 23.8286515706485,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451202125-1",
+   "SBP (Systolic Blood Pressure) [float]": 124,
+   "Gender (enum)": 2,
+   "Age, years [float]": 51.49,
+   "Body mass index [float]": 20.2958579881657,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411102088-1",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 1,
+   "Age, years [float]": 48.98,
+   "Body mass index [float]": 29.9030287496262,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208005-1",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 2,
+   "Age, years [float]": 46.98,
+   "Body mass index [float]": 25.2173585757838,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411102085-1",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 61.69,
+   "Body mass index [float]": 22.6473769605192,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201122-2",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 28.4576634004654,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232203001-2",
+   "SBP (Systolic Blood Pressure) [float]": 125,
+   "Gender (enum)": 2,
+   "Age, years [float]": 75.65,
+   "Body mass index [float]": 27.0676392440964,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421202102-2",
+   "SBP (Systolic Blood Pressure) [float]": 108,
+   "Gender (enum)": 2,
+   "Age, years [float]": 52.15,
+   "Body mass index [float]": 30.193181127789,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211102122-1",
+   "SBP (Systolic Blood Pressure) [float]": 180.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 54.97,
+   "Body mass index [float]": 23.6712536295922,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521109020-1",
+   "SBP (Systolic Blood Pressure) [float]": 129.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 76.27,
+   "Body mass index [float]": 20.2812330989724,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232205122-1",
+   "SBP (Systolic Blood Pressure) [float]": 177,
+   "Gender (enum)": 2,
+   "Age, years [float]": 69.23,
+   "Body mass index [float]": 23.9437436683974,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "232205074-2",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 44.56,
+   "Body mass index [float]": 24.1627659053034,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412204121-3",
+   "SBP (Systolic Blood Pressure) [float]": 125.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 55.87,
+   "Body mass index [float]": 22.265625,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232205074-1",
+   "SBP (Systolic Blood Pressure) [float]": 149.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 38.08,
+   "Body mass index [float]": 25.801408207922,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372204121-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 74,
+   "Body mass index [float]": 23.0400201994698,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "232205125-1",
+   "SBP (Systolic Blood Pressure) [float]": 167,
+   "Gender (enum)": 2,
+   "Age, years [float]": 70.41,
+   "Body mass index [float]": 27.4301696009179,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232205125-2",
+   "SBP (Systolic Blood Pressure) [float]": 169,
+   "Gender (enum)": 1,
+   "Age, years [float]": 21.42,
+   "Body mass index [float]": 25.9520280445638,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232205073-2",
+   "SBP (Systolic Blood Pressure) [float]": 153.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 63.39,
+   "Body mass index [float]": 27.7245319878673,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372204121-3",
+   "SBP (Systolic Blood Pressure) [float]": 139.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 53.15,
+   "Body mass index [float]": 31.0549732748066,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431201101-121",
+   "SBP (Systolic Blood Pressure) [float]": 178.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 60.87,
+   "Body mass index [float]": 23.7137473113845,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211202128-1",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 72.06,
+   "Body mass index [float]": 21.6262975778547,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "212305008-1",
+   "SBP (Systolic Blood Pressure) [float]": 136.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 50.4,
+   "Body mass index [float]": 26.6797381044081,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431201122-1",
+   "SBP (Systolic Blood Pressure) [float]": 152,
+   "Gender (enum)": 2,
+   "Age, years [float]": 32.91,
+   "Body mass index [float]": 26.489640614263,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232104019-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 20.83,
+   "Body mass index [float]": 28.7614164396731,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232104083-2",
+   "SBP (Systolic Blood Pressure) [float]": 124,
+   "Gender (enum)": 1,
+   "Age, years [float]": 28.15,
+   "Body mass index [float]": 29.2343310837188,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431201122-2",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 52.98,
+   "Body mass index [float]": 19.5062576074405,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105082-1",
+   "SBP (Systolic Blood Pressure) [float]": 138.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 34.35,
+   "Body mass index [float]": 23.5244696492333,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371202126-1",
+   "SBP (Systolic Blood Pressure) [float]": 130.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 18.6,
+   "Body mass index [float]": 22.9010052927904,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452105004-2",
+   "SBP (Systolic Blood Pressure) [float]": 105,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 21.2864914551903,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452105004-1",
+   "SBP (Systolic Blood Pressure) [float]": 100,
+   "Gender (enum)": 2,
+   "Age, years [float]": 47.38,
+   "Body mass index [float]": 23.8030940164345,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521202122-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 62.31,
+   "Body mass index [float]": 24.7720967102656,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431202125-1",
+   "SBP (Systolic Blood Pressure) [float]": 167.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 39.88,
+   "Body mass index [float]": 22.1254949804076,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "212203081-1",
+   "SBP (Systolic Blood Pressure) [float]": 176,
+   "Gender (enum)": 1,
+   "Age, years [float]": 68.52,
+   "Body mass index [float]": 20.6778894220724,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431202126-1",
+   "SBP (Systolic Blood Pressure) [float]": 173.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 44.8,
+   "Body mass index [float]": 23.6012262504744,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "431202084-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 54.95,
+   "Body mass index [float]": 22.8812527891598,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105012-1",
+   "SBP (Systolic Blood Pressure) [float]": 162,
+   "Gender (enum)": 1,
+   "Age, years [float]": 58.97,
+   "Body mass index [float]": 18.4042236763831,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105121-2",
+   "SBP (Systolic Blood Pressure) [float]": 162,
+   "Gender (enum)": 2,
+   "Age, years [float]": 51.59,
+   "Body mass index [float]": 23.0291417219254,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105019-2",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 1,
+   "Age, years [float]": 52.71,
+   "Body mass index [float]": 20.9880214340638,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105019-1",
+   "SBP (Systolic Blood Pressure) [float]": 147,
+   "Gender (enum)": 2,
+   "Age, years [float]": 55.96,
+   "Body mass index [float]": 24.7248661511005,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105008-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 56.86,
+   "Body mass index [float]": 25.4619441483988,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105084-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 38.1,
+   "Body mass index [float]": 23.4250822535174,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231102065-2",
+   "SBP (Systolic Blood Pressure) [float]": 100,
+   "Gender (enum)": 2,
+   "Age, years [float]": 59.89,
+   "Body mass index [float]": 22.8812527891598,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105005-1",
+   "SBP (Systolic Blood Pressure) [float]": 155.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 60.62,
+   "Body mass index [float]": 30.0793444328824,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231102064-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 25.35,
+   "Body mass index [float]": 19.4824509220702,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231102064-1",
+   "SBP (Systolic Blood Pressure) [float]": 129.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 70.51,
+   "Body mass index [float]": 26.5450361604208,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371103082-1",
+   "SBP (Systolic Blood Pressure) [float]": 150.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 23.5,
+   "Body mass index [float]": 27.3588454567217,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231102065-1",
+   "SBP (Systolic Blood Pressure) [float]": 129.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42.61,
+   "Body mass index [float]": 18.0276816608997,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105008-2",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 1,
+   "Age, years [float]": 26.1,
+   "Body mass index [float]": 24.0162037037037,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211202125-1",
+   "SBP (Systolic Blood Pressure) [float]": 129.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 27.57,
+   "Body mass index [float]": 25.1063327032136,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321105122-1",
+   "SBP (Systolic Blood Pressure) [float]": 164.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 85.07,
+   "Body mass index [float]": 27.1246570153639,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212305081-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 12.43,
+   "Body mass index [float]": 24.0164982901297,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321102121-1",
+   "SBP (Systolic Blood Pressure) [float]": 159.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 92.26,
+   "Body mass index [float]": 25.7648165450367,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "422101082-1",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 28.79,
+   "Body mass index [float]": 23.0186242559106,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422203101-1",
+   "SBP (Systolic Blood Pressure) [float]": 138,
+   "Gender (enum)": 1,
+   "Age, years [float]": 22.22,
+   "Body mass index [float]": 22.5710475017954,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321102121-2",
+   "SBP (Systolic Blood Pressure) [float]": 128.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 54.35,
+   "Body mass index [float]": 19.9508662666133,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211103123-2",
+   "SBP (Systolic Blood Pressure) [float]": 150.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 53.87,
+   "Body mass index [float]": 28.0287160288915,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232101085-1",
+   "SBP (Systolic Blood Pressure) [float]": 131.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 69.13,
+   "Body mass index [float]": 27.3645546372819,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "232101081-1",
+   "SBP (Systolic Blood Pressure) [float]": 146,
+   "Gender (enum)": 1,
+   "Age, years [float]": 21.43,
+   "Body mass index [float]": 25.6219578150352,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "321103081-1",
+   "SBP (Systolic Blood Pressure) [float]": 132,
+   "Gender (enum)": 1,
+   "Age, years [float]": 23,
+   "Body mass index [float]": 29.3081631955132,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521202081-2",
+   "SBP (Systolic Blood Pressure) [float]": 114.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 61.66,
+   "Body mass index [float]": 29.0406341107872,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412401062-121",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 45.29,
+   "Body mass index [float]": 26.8787053356834,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "421104061-2",
+   "SBP (Systolic Blood Pressure) [float]": 142.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 38.81,
+   "Body mass index [float]": 21.9146482122261,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322405011-1",
+   "SBP (Systolic Blood Pressure) [float]": 142,
+   "Gender (enum)": 2,
+   "Age, years [float]": 60.09,
+   "Body mass index [float]": 21.7993079584775,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322405002-1",
+   "SBP (Systolic Blood Pressure) [float]": 143.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 40.64,
+   "Body mass index [float]": 22.7254281308335,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232402103-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 65.46,
+   "Body mass index [float]": 23.4375,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521202126-1",
+   "SBP (Systolic Blood Pressure) [float]": 143.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 35.17,
+   "Body mass index [float]": 16.9505818856468,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211204122-1",
+   "SBP (Systolic Blood Pressure) [float]": 131.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 24.06,
+   "Body mass index [float]": 30.351224368391,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "211203084-2",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 1,
+   "Age, years [float]": 26.46,
+   "Body mass index [float]": 28.0661284121492,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "521202126-2",
+   "SBP (Systolic Blood Pressure) [float]": 141.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 41.48,
+   "Body mass index [float]": 23.2332602462473,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212202063-1",
+   "SBP (Systolic Blood Pressure) [float]": 138,
+   "Gender (enum)": 1,
+   "Age, years [float]": 32.84,
+   "Body mass index [float]": 23.7996073064794,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "432202125-1",
+   "SBP (Systolic Blood Pressure) [float]": 154,
+   "Gender (enum)": 2,
+   "Age, years [float]": 69.33,
+   "Body mass index [float]": 26.0020832529609,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211101121-2",
+   "SBP (Systolic Blood Pressure) [float]": 141.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 59.16,
+   "Body mass index [float]": 23.7380461360413,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521202125-1",
+   "SBP (Systolic Blood Pressure) [float]": 148.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 71.06,
+   "Body mass index [float]": 24.5089457652043,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211103095-1",
+   "SBP (Systolic Blood Pressure) [float]": 158.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 43.8,
+   "Body mass index [float]": 26.0533279055567,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372201005-3",
+   "SBP (Systolic Blood Pressure) [float]": 127.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 74.46,
+   "Body mass index [float]": 25.2801098592428,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371108001-2",
+   "SBP (Systolic Blood Pressure) [float]": 155,
+   "Gender (enum)": 1,
+   "Age, years [float]": 75.33,
+   "Body mass index [float]": 24.65483234714,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371108017-3",
+   "SBP (Systolic Blood Pressure) [float]": 107.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 46.9,
+   "Body mass index [float]": 22.0580511886839,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211101067-2",
+   "SBP (Systolic Blood Pressure) [float]": 146.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 80.57,
+   "Body mass index [float]": 25.4051973111015,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231204122-2",
+   "SBP (Systolic Blood Pressure) [float]": 141,
+   "Gender (enum)": 2,
+   "Age, years [float]": 43.83,
+   "Body mass index [float]": 23.7338323358127,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211101081-2",
+   "SBP (Systolic Blood Pressure) [float]": 135.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 42.93,
+   "Body mass index [float]": 25.4841561360708,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211102121-2",
+   "SBP (Systolic Blood Pressure) [float]": 159.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 53.44,
+   "Body mass index [float]": 23.3548496096759,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "432204042-1",
+   "SBP (Systolic Blood Pressure) [float]": 104,
+   "Gender (enum)": 2,
+   "Age, years [float]": 63.65,
+   "Body mass index [float]": 20.1562106324011,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "432204042-2",
+   "SBP (Systolic Blood Pressure) [float]": 92,
+   "Gender (enum)": 1,
+   "Age, years [float]": 75.81,
+   "Body mass index [float]": 19.5029585798817,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411101124-1",
+   "SBP (Systolic Blood Pressure) [float]": 147.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 52.34,
+   "Body mass index [float]": 35.5233634156721,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208009-1",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 1,
+   "Age, years [float]": 67.02,
+   "Body mass index [float]": 28.2822064908861,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411103082-2",
+   "SBP (Systolic Blood Pressure) [float]": 128,
+   "Gender (enum)": 2,
+   "Age, years [float]": 20.03,
+   "Body mass index [float]": 31.9429421308816,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322204122-2",
+   "SBP (Systolic Blood Pressure) [float]": 147.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 49.5,
+   "Body mass index [float]": 25.4307299960489,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422301101-2",
+   "SBP (Systolic Blood Pressure) [float]": 136.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 60.77,
+   "Body mass index [float]": 23.3275183577427,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208013-2",
+   "SBP (Systolic Blood Pressure) [float]": 147.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 27.4930713025951,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "232403005-1",
+   "SBP (Systolic Blood Pressure) [float]": 123.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 34.81,
+   "Body mass index [float]": 21.8619869125521,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208013-1",
+   "SBP (Systolic Blood Pressure) [float]": 112.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 45.33,
+   "Body mass index [float]": 25.8585858585859,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208082-2",
+   "SBP (Systolic Blood Pressure) [float]": 145.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 50.17,
+   "Body mass index [float]": 24.4328824141519,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211201131-1",
+   "SBP (Systolic Blood Pressure) [float]": 172,
+   "Gender (enum)": 2,
+   "Age, years [float]": 66.04,
+   "Body mass index [float]": 22.2753099173554,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232403126-2",
+   "SBP (Systolic Blood Pressure) [float]": 162,
+   "Gender (enum)": 1,
+   "Age, years [float]": 14.84,
+   "Body mass index [float]": 28.9812583662383,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232403126-1",
+   "SBP (Systolic Blood Pressure) [float]": 182,
+   "Gender (enum)": 2,
+   "Age, years [float]": 14.21,
+   "Body mass index [float]": 24.2479666347979,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232403130-2",
+   "SBP (Systolic Blood Pressure) [float]": 189,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 24.5673686382799,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421102121-2",
+   "SBP (Systolic Blood Pressure) [float]": 128,
+   "Gender (enum)": 1,
+   "Age, years [float]": 70.46,
+   "Body mass index [float]": 20.7053900747594,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "432201122-3",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 15.66,
+   "Body mass index [float]": 23.214388946699,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421102044-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 74.3,
+   "Body mass index [float]": 24.508003992545,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231203011-2",
+   "SBP (Systolic Blood Pressure) [float]": 118.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 47.26,
+   "Body mass index [float]": 27.1584854572452,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208016-2",
+   "SBP (Systolic Blood Pressure) [float]": 170,
+   "Gender (enum)": 1,
+   "Age, years [float]": 28.82,
+   "Body mass index [float]": 26.8181158368413,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211208121-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 56.45,
+   "Body mass index [float]": 26.2419813472307,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211204130-2",
+   "SBP (Systolic Blood Pressure) [float]": 165.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 64.35,
+   "Body mass index [float]": 28.7355263206369,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "211201137-1",
+   "SBP (Systolic Blood Pressure) [float]": 162,
+   "Gender (enum)": 2,
+   "Age, years [float]": 55.09,
+   "Body mass index [float]": 20.6722189173111,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231203019-1",
+   "SBP (Systolic Blood Pressure) [float]": 108,
+   "Gender (enum)": 1,
+   "Age, years [float]": 59.83,
+   "Body mass index [float]": 21.9536923925979,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371103066-3",
+   "SBP (Systolic Blood Pressure) [float]": 111.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 65.67,
+   "Body mass index [float]": 19.3698347107438,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372301082-1",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 9.92,
+   "Body mass index [float]": 28.5572562358277,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "421102122-2",
+   "SBP (Systolic Blood Pressure) [float]": 147.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 53.07,
+   "Body mass index [float]": 31.2092084964993,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231203102-1",
+   "SBP (Systolic Blood Pressure) [float]": 180,
+   "Gender (enum)": 1,
+   "Age, years [float]": 60.31,
+   "Body mass index [float]": 28.6178578780277,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371103065-3",
+   "SBP (Systolic Blood Pressure) [float]": 112.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 10.43,
+   "Body mass index [float]": 17.3589193283676,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "212401121-2",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 1,
+   "Age, years [float]": 82.23,
+   "Body mass index [float]": 22.5827091723437,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411108015-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 72.38,
+   "Body mass index [float]": 28.6501377410468,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "522302008-4",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 1,
+   "Age, years [float]": 58.26,
+   "Body mass index [float]": 22.9168880858752,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452401128-2",
+   "SBP (Systolic Blood Pressure) [float]": 106,
+   "Gender (enum)": 2,
+   "Age, years [float]": 80.1,
+   "Body mass index [float]": 28.6968087891832,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372401101-1",
+   "SBP (Systolic Blood Pressure) [float]": 139.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 46.14,
+   "Body mass index [float]": 25.013520822066,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411201121-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 35.13,
+   "Body mass index [float]": 24.9937011841774,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411201128-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 54.03,
+   "Body mass index [float]": 24.2764123602695,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "372304002-6",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 46.88,
+   "Body mass index [float]": 31.7054193752224,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232303005-1",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 9.29,
+   "Body mass index [float]": 32.288404227782,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411202132-1",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 21.34,
+   "Body mass index [float]": 24.6825679363949,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232303006-2",
+   "SBP (Systolic Blood Pressure) [float]": 139.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 41.48,
+   "Body mass index [float]": 27.1736493240555,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411202133-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 40.43,
+   "Body mass index [float]": 24.6904286950958,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372301083-1",
+   "SBP (Systolic Blood Pressure) [float]": 138.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 75.9,
+   "Body mass index [float]": 25.4746274467501,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422201126-1",
+   "SBP (Systolic Blood Pressure) [float]": 158.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 16.66,
+   "Body mass index [float]": 24.0250431673743,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232303011-1",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 2,
+   "Age, years [float]": 35.99,
+   "Body mass index [float]": 23.7491065965313,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232303011-2",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 1,
+   "Age, years [float]": 13.13,
+   "Body mass index [float]": 19.975270538393,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411202130-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 43.98,
+   "Body mass index [float]": 26.6805411030177,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411202137-2",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 2,
+   "Age, years [float]": 29.69,
+   "Body mass index [float]": 36.3667820069204,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521106101-1",
+   "SBP (Systolic Blood Pressure) [float]": 148.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 32.57,
+   "Body mass index [float]": 25.3601341389223,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "411202126-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 58.82,
+   "Body mass index [float]": 28.3059950645957,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232303122-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 62.27,
+   "Body mass index [float]": 30.9440939036235,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411204123-3",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 2,
+   "Age, years [float]": 57.61,
+   "Body mass index [float]": 22.1606648199446,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322305121-2",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 40.16,
+   "Body mass index [float]": 21.3810569147799,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372301081-2",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 46.83,
+   "Body mass index [float]": 27.6545036160421,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "432105005-2",
+   "SBP (Systolic Blood Pressure) [float]": 188,
+   "Gender (enum)": 2,
+   "Age, years [float]": 61.19,
+   "Body mass index [float]": 27.9373711679312,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232304081-2",
+   "SBP (Systolic Blood Pressure) [float]": 170.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 43.29,
+   "Body mass index [float]": 31.4349112426035,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232304101-1",
+   "SBP (Systolic Blood Pressure) [float]": 129.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 88.53,
+   "Body mass index [float]": 22.2040816326531,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "411204003-61",
+   "SBP (Systolic Blood Pressure) [float]": 100,
+   "Gender (enum)": 1,
+   "Age, years [float]": 40.76,
+   "Body mass index [float]": 22.6949952216397,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232302002-2",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 37.24,
+   "Body mass index [float]": 27.3672207359326,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371204084-1",
+   "SBP (Systolic Blood Pressure) [float]": 144,
+   "Gender (enum)": 1,
+   "Age, years [float]": 14.4,
+   "Body mass index [float]": 34.9276791584484,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201064-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 36.66,
+   "Body mass index [float]": 26.3464697438888,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521106061-2",
+   "SBP (Systolic Blood Pressure) [float]": 148.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 71.39,
+   "Body mass index [float]": 24.9551719381638,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "322304122-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 38.97,
+   "Body mass index [float]": 18.3863997859223,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322304122-2",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 1,
+   "Age, years [float]": 41.63,
+   "Body mass index [float]": 30.6036845225445,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "322304082-2",
+   "SBP (Systolic Blood Pressure) [float]": 146,
+   "Gender (enum)": 2,
+   "Age, years [float]": 53.2,
+   "Body mass index [float]": 23.425298177186,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322304121-2",
+   "SBP (Systolic Blood Pressure) [float]": 160,
+   "Gender (enum)": 1,
+   "Age, years [float]": 22.8,
+   "Body mass index [float]": 23.780412669731,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232302101-2",
+   "SBP (Systolic Blood Pressure) [float]": 159.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 13.69,
+   "Body mass index [float]": 26.4791818845873,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521106066-1",
+   "SBP (Systolic Blood Pressure) [float]": 174.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 46.6,
+   "Body mass index [float]": 21.1717531744264,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371204081-1",
+   "SBP (Systolic Blood Pressure) [float]": 130.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 75.95,
+   "Body mass index [float]": 26.5346832775039,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "432102062-2",
+   "SBP (Systolic Blood Pressure) [float]": 142.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 39.58,
+   "Body mass index [float]": 24.563202187193,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301007-1",
+   "SBP (Systolic Blood Pressure) [float]": 119.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 53.97,
+   "Body mass index [float]": 23.0439831615619,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301007-2",
+   "SBP (Systolic Blood Pressure) [float]": 119.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 57.51,
+   "Body mass index [float]": 22.3132784291452,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371202086-2",
+   "SBP (Systolic Blood Pressure) [float]": 126,
+   "Gender (enum)": 2,
+   "Age, years [float]": 60.93,
+   "Body mass index [float]": 23.5891123822076,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301010-1",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 18.18,
+   "Body mass index [float]": 23.7718769187301,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301010-2",
+   "SBP (Systolic Blood Pressure) [float]": 106.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 55.73,
+   "Body mass index [float]": 22.6900606594461,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301011-1",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 73.07,
+   "Body mass index [float]": 23.1481481481481,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301011-2",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 63.11,
+   "Body mass index [float]": 22.7458359611667,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301012-1",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 45.52,
+   "Body mass index [float]": 21.1204940381575,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301012-2",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 52.86,
+   "Body mass index [float]": 22.4261359658335,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201102-1",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 1,
+   "Age, years [float]": 21.33,
+   "Body mass index [float]": 26.2335532990804,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "521107006-4",
+   "SBP (Systolic Blood Pressure) [float]": 129.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 8.68,
+   "Body mass index [float]": 22.1484375,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201063-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 30.0069989076471,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201063-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 13.34,
+   "Body mass index [float]": 22.9937067735096,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322405019-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 46.54,
+   "Body mass index [float]": 27.3275876750203,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322405020-2",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 49.35,
+   "Body mass index [float]": 24.9739854318418,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371202104-2",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 19.5,
+   "Body mass index [float]": 25.1349695500317,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232301123-1",
+   "SBP (Systolic Blood Pressure) [float]": 139,
+   "Gender (enum)": 2,
+   "Age, years [float]": 54.18,
+   "Body mass index [float]": 22.8373702422145,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322405020-1",
+   "SBP (Systolic Blood Pressure) [float]": 154,
+   "Gender (enum)": 2,
+   "Age, years [float]": 8.29,
+   "Body mass index [float]": 28.084332107116,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322105005-1",
+   "SBP (Systolic Blood Pressure) [float]": 160,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42.48,
+   "Body mass index [float]": 28.3446712018141,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452401122-1",
+   "SBP (Systolic Blood Pressure) [float]": 170,
+   "Gender (enum)": 2,
+   "Age, years [float]": 65.65,
+   "Body mass index [float]": 21.6412742382271,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "232402102-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 25.8,
+   "Body mass index [float]": 26.953125,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452401048-2",
+   "SBP (Systolic Blood Pressure) [float]": 145.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 45.09,
+   "Body mass index [float]": 23.7668304172989,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452401127-2",
+   "SBP (Systolic Blood Pressure) [float]": 142.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 41.49,
+   "Body mass index [float]": 22.3322753073273,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422104061-1",
+   "SBP (Systolic Blood Pressure) [float]": 163.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 47.83,
+   "Body mass index [float]": 25.8645124716553,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452401123-2",
+   "SBP (Systolic Blood Pressure) [float]": 166.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 68.85,
+   "Body mass index [float]": 28.0689443445463,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422103001-4",
+   "SBP (Systolic Blood Pressure) [float]": 90,
+   "Gender (enum)": 1,
+   "Age, years [float]": 15.02,
+   "Body mass index [float]": 19.2209487372929,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211202127-1",
+   "SBP (Systolic Blood Pressure) [float]": 140.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 46.94,
+   "Body mass index [float]": 24.7426411850453,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372402125-1",
+   "SBP (Systolic Blood Pressure) [float]": 155.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 38.97,
+   "Body mass index [float]": 27.3981756824485,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212102061-2",
+   "SBP (Systolic Blood Pressure) [float]": 124,
+   "Gender (enum)": 1,
+   "Age, years [float]": 59.5,
+   "Body mass index [float]": 29.9848179637109,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371103066-4",
+   "SBP (Systolic Blood Pressure) [float]": 146.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 47.61,
+   "Body mass index [float]": 27.2392244832559,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "371202125-1",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 2,
+   "Age, years [float]": 33.91,
+   "Body mass index [float]": 26.0930530616906,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371203083-1",
+   "SBP (Systolic Blood Pressure) [float]": 134.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 27.1430374952657,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201082-1",
+   "SBP (Systolic Blood Pressure) [float]": 115,
+   "Gender (enum)": 1,
+   "Age, years [float]": 72.33,
+   "Body mass index [float]": 26.0656804941685,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372403041-2",
+   "SBP (Systolic Blood Pressure) [float]": 165,
+   "Gender (enum)": 1,
+   "Age, years [float]": 53.76,
+   "Body mass index [float]": 22.8286951625149,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "211203122-1",
+   "SBP (Systolic Blood Pressure) [float]": 134.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 38.56,
+   "Body mass index [float]": 27.0416441319632,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422201122-5",
+   "SBP (Systolic Blood Pressure) [float]": 131.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 69.28,
+   "Body mass index [float]": 29.453125,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "372402043-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 53.81,
+   "Body mass index [float]": 25.3154542937384,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212401101-2",
+   "SBP (Systolic Blood Pressure) [float]": 111.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 57.26,
+   "Body mass index [float]": 20.7511505588429,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231103002-2",
+   "SBP (Systolic Blood Pressure) [float]": 143.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 71.03,
+   "Body mass index [float]": 28.3717401115901,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201124-2",
+   "SBP (Systolic Blood Pressure) [float]": 113.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 52.44,
+   "Body mass index [float]": 21.6143060434475,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211202125-2",
+   "SBP (Systolic Blood Pressure) [float]": 130.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 33.61,
+   "Body mass index [float]": 22.3081499107674,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371201085-1",
+   "SBP (Systolic Blood Pressure) [float]": 146,
+   "Gender (enum)": 2,
+   "Age, years [float]": 54.56,
+   "Body mass index [float]": 22.7741088288012,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422301101-1",
+   "SBP (Systolic Blood Pressure) [float]": 146.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 58.96,
+   "Body mass index [float]": 27.1808999081726,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371202065-1",
+   "SBP (Systolic Blood Pressure) [float]": 181.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 50.12,
+   "Body mass index [float]": 28.6881023786086,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "212401126-2",
+   "SBP (Systolic Blood Pressure) [float]": 130.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 60.73,
+   "Body mass index [float]": 24.7427918597384,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "422103103-1",
+   "SBP (Systolic Blood Pressure) [float]": 160,
+   "Gender (enum)": 2,
+   "Age, years [float]": 43.88,
+   "Body mass index [float]": 29.7777777777778,
+   "Smoker (0- no, 1- yes) [enum]": 9,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422301102-1",
+   "SBP (Systolic Blood Pressure) [float]": 125,
+   "Gender (enum)": 2,
+   "Age, years [float]": 44.88,
+   "Body mass index [float]": 24.4982698961938,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211201139-1",
+   "SBP (Systolic Blood Pressure) [float]": 176.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 55.92,
+   "Body mass index [float]": 23.0528882792257,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "371108018-3",
+   "SBP (Systolic Blood Pressure) [float]": 126.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 65.11,
+   "Body mass index [float]": 23.6712536295922,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "422103121-2",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 2,
+   "Age, years [float]": 36.44,
+   "Body mass index [float]": 26.6727632982777,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212203065-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 50.35,
+   "Body mass index [float]": 24.8046875,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211203087-2",
+   "SBP (Systolic Blood Pressure) [float]": 180,
+   "Gender (enum)": 1,
+   "Age, years [float]": 45.29,
+   "Body mass index [float]": 24.4646016033724,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "231201009-1",
+   "SBP (Systolic Blood Pressure) [float]": 128,
+   "Gender (enum)": 1,
+   "Age, years [float]": 76.63,
+   "Body mass index [float]": 20.5399912904631,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "211204127-1",
+   "SBP (Systolic Blood Pressure) [float]": 161.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 40.42,
+   "Body mass index [float]": 24.7294616070316,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "412301101-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 50.95,
+   "Body mass index [float]": 23.6127508854782,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322404083-1",
+   "SBP (Systolic Blood Pressure) [float]": 134.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 14.86,
+   "Body mass index [float]": 20.0506878395945,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231201122-2",
+   "SBP (Systolic Blood Pressure) [float]": 141,
+   "Gender (enum)": 1,
+   "Age, years [float]": 45.74,
+   "Body mass index [float]": 26.4462809917355,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412301084-1",
+   "SBP (Systolic Blood Pressure) [float]": 221.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 51.67,
+   "Body mass index [float]": 25.4619806334632,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209001-1",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 1,
+   "Age, years [float]": 11.26,
+   "Body mass index [float]": 24.8357634994392,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209125-1",
+   "SBP (Systolic Blood Pressure) [float]": 136.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 66.54,
+   "Body mass index [float]": 27.2990341899051,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "322209019-2",
+   "SBP (Systolic Blood Pressure) [float]": 132,
+   "Gender (enum)": 1,
+   "Age, years [float]": 77.06,
+   "Body mass index [float]": 26.6681454082745,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451105102-2",
+   "SBP (Systolic Blood Pressure) [float]": 160,
+   "Gender (enum)": 1,
+   "Age, years [float]": 75.54,
+   "Body mass index [float]": 22.6666666666667,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209127-1",
+   "SBP (Systolic Blood Pressure) [float]": 162.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 62.45,
+   "Body mass index [float]": 23.4822630639657,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209011-2",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 2,
+   "Age, years [float]": 69.51,
+   "Body mass index [float]": 30.3729334871203,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209122-1",
+   "SBP (Systolic Blood Pressure) [float]": 126,
+   "Gender (enum)": 2,
+   "Age, years [float]": 45.59,
+   "Body mass index [float]": 23.2163265306122,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209126-1",
+   "SBP (Systolic Blood Pressure) [float]": 149.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 39.91,
+   "Body mass index [float]": 29.0224690082645,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451102121-2",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 30.25,
+   "Body mass index [float]": 24.2285874034642,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209125-2",
+   "SBP (Systolic Blood Pressure) [float]": 130,
+   "Gender (enum)": 1,
+   "Age, years [float]": 15.33,
+   "Body mass index [float]": 21.4207472919794,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209121-2",
+   "SBP (Systolic Blood Pressure) [float]": 193.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 23.58,
+   "Body mass index [float]": 21.7054017196746,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209124-1",
+   "SBP (Systolic Blood Pressure) [float]": 120,
+   "Gender (enum)": 2,
+   "Age, years [float]": 25.75,
+   "Body mass index [float]": 24.2515974234828,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322209017-1",
+   "SBP (Systolic Blood Pressure) [float]": 124,
+   "Gender (enum)": 1,
+   "Age, years [float]": 57.78,
+   "Body mass index [float]": 24.1216782586702,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451105121-2",
+   "SBP (Systolic Blood Pressure) [float]": 143.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 7.6,
+   "Body mass index [float]": 28.6666666666667,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322105020-2",
+   "SBP (Systolic Blood Pressure) [float]": 140,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 29.4758426246316,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521107006-5",
+   "SBP (Systolic Blood Pressure) [float]": 101.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 46.41,
+   "Body mass index [float]": 20.1339999319797,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212101123-2",
+   "SBP (Systolic Blood Pressure) [float]": 152.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 39.99,
+   "Body mass index [float]": 31.4113403302559,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452401128-1",
+   "SBP (Systolic Blood Pressure) [float]": 156.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 54.87,
+   "Body mass index [float]": 22.9568411386593,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212305009-1",
+   "SBP (Systolic Blood Pressure) [float]": 138.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 42,
+   "Body mass index [float]": 25.9591836734694,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452401124-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 59.2,
+   "Body mass index [float]": 21.0480476121353,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452401121-2",
+   "SBP (Systolic Blood Pressure) [float]": 200,
+   "Gender (enum)": 2,
+   "Age, years [float]": 33.26,
+   "Body mass index [float]": 20.7197873969641,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412201081-2",
+   "SBP (Systolic Blood Pressure) [float]": 142.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 50,
+   "Body mass index [float]": 29.0317898098418,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412203063-1",
+   "SBP (Systolic Blood Pressure) [float]": 110,
+   "Gender (enum)": 1,
+   "Age, years [float]": 24.01,
+   "Body mass index [float]": 24.5243463470591,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "412203122-1",
+   "SBP (Systolic Blood Pressure) [float]": 142,
+   "Gender (enum)": 2,
+   "Age, years [float]": 57.97,
+   "Body mass index [float]": 24.1684694429421,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 1
+ },
+ {
+   "Subject ID [enum]": "212103081-2",
+   "SBP (Systolic Blood Pressure) [float]": 158.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 78.57,
+   "Body mass index [float]": 35.5731208477636,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451105111-2",
+   "SBP (Systolic Blood Pressure) [float]": 163.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 54.98,
+   "Body mass index [float]": 22.5069252077562,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451105108-2",
+   "SBP (Systolic Blood Pressure) [float]": 136.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 74.08,
+   "Body mass index [float]": 16.796875,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "212103012-121",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 2,
+   "Age, years [float]": 24.14,
+   "Body mass index [float]": 23.3543594516517,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "451102124-1",
+   "SBP (Systolic Blood Pressure) [float]": 150.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 46.51,
+   "Body mass index [float]": 26.4230054190894,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521106002-1",
+   "SBP (Systolic Blood Pressure) [float]": 138,
+   "Gender (enum)": 2,
+   "Age, years [float]": 67.79,
+   "Body mass index [float]": 25.1106913546724,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "521201082-1",
+   "SBP (Systolic Blood Pressure) [float]": 144.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 58.84,
+   "Body mass index [float]": 25.6145639213299,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "452402021-2",
+   "SBP (Systolic Blood Pressure) [float]": 163,
+   "Gender (enum)": 2,
+   "Age, years [float]": 60.68,
+   "Body mass index [float]": 23.0117724911052,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "231202121-2",
+   "SBP (Systolic Blood Pressure) [float]": 132,
+   "Gender (enum)": 2,
+   "Age, years [float]": 43.52,
+   "Body mass index [float]": 22.265625,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321208009-1",
+   "SBP (Systolic Blood Pressure) [float]": 150,
+   "Gender (enum)": 1,
+   "Age, years [float]": 23.56,
+   "Body mass index [float]": 29.9003553274784,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321208121-1",
+   "SBP (Systolic Blood Pressure) [float]": 146.666666666667,
+   "Gender (enum)": 2,
+   "Age, years [float]": 12.51,
+   "Body mass index [float]": 30.7958477508651,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321208016-1",
+   "SBP (Systolic Blood Pressure) [float]": 180,
+   "Gender (enum)": 2,
+   "Age, years [float]": 9.32,
+   "Body mass index [float]": 23.7259364993634,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321208009-2",
+   "SBP (Systolic Blood Pressure) [float]": 148.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 74.08,
+   "Body mass index [float]": 28.0898876404494,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "321208005-1",
+   "SBP (Systolic Blood Pressure) [float]": 137.666666666667,
+   "Gender (enum)": 1,
+   "Age, years [float]": 51.44,
+   "Body mass index [float]": 24.1516725033209,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322405004-2",
+   "SBP (Systolic Blood Pressure) [float]": 127.333333333333,
+   "Gender (enum)": 1,
+   "Age, years [float]": 46.16,
+   "Body mass index [float]": 22.3907351538425,
+   "Smoker (0- no, 1- yes) [enum]": 1,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ },
+ {
+   "Subject ID [enum]": "322405004-3",
+   "SBP (Systolic Blood Pressure) [float]": 119.333333333333,
+   "Gender (enum)": 2,
+   "Age, years [float]": 47.68,
+   "Body mass index [float]": 19.6484375,
+   "Smoker (0- no, 1- yes) [enum]": 0,
+   "Diabetes (0- no, 1- yes) [enum]": 0
+ }
+]
