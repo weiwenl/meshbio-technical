@@ -29,6 +29,11 @@ class Search extends Component {
         lastAge: e.target.value
       });
     }
+    else if(e.target.name === 'gender'){
+      this.setState({
+        gender: e.target.value
+      });
+    }
   }
 
   render() {

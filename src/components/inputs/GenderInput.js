@@ -11,9 +11,14 @@ const GenderInput = (props) => {
   }
   return(
     <div>
-      <select style={inputStyles}>
-        <option value='male'>Male</option>
-        <option value='female'>Female</option>
+      <select
+        required
+        name='gender'
+        onChange={props.gender}
+        style={inputStyles}>
+        <option label='Gender'></option>
+        <option label='Male' value='male'></option>
+        <option label='Female' value='female'></option>
       </select>
     </div>
 
