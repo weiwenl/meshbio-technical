@@ -2,14 +2,9 @@ import React, { Component } from 'react';
 import './App.css';
 
 // import components
-import AgeInput from './components/inputs/AgeInput';
-import GenderInput from './components/inputs/GenderInput'
-
-// import svg
-import searchbtn from './search.svg'
+import Search from './container/search/Search';
 
 class App extends Component {
-
   render() {
     return (
       <div className="App">
@@ -18,9 +13,7 @@ class App extends Component {
         </div>
 
         <div className="Search-wrapper">
-          <AgeInput />
-          <GenderInput />
-          <input type='image' src={searchbtn} alt='Search' style={{'height': '2.5em', 'padding':'0 auto'}} />
+          <Search />
         </div>
 
         <div className="Result-wrapper">
