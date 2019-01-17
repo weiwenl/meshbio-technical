@@ -8,12 +8,37 @@ import GenderInput from '../../components/inputs/GenderInput';
 import searchbtn from './search.svg'
 
 class Search extends Component {
-  cons
+  constructor(props) {
+    super()
+    this.state = {
+      firstAge: '',
+      lastAge: '',
+      gender: ''
+    }
+    this.onChangeHandler = this.onChangeHandler.bind(this);
+  }
+  onChangeHandler(e){
+    if(e.target.name === 'fage') {
+      this.setState({
+        firstAge: e.target.value
+      });
+    }
+
+    else if(e.target.name === 'lage'){
+      this.setState({
+        lastAge: e.target.value
+      });
+    }
+  }
+
   render() {
     return(
       <Fragment>
-        <AgeInput />
-        <GenderInput />
+        <AgeInput
+          firstAge={this.onChangeHandler}
+          lastAge={this.onChangeHandler}/>
+        <GenderInput
+          gender={this.onChangeHandler}/>
         <input
           type='image'
           src={searchbtn}

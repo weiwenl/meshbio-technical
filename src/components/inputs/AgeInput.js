@@ -10,9 +10,17 @@ const AgeInput = (props) => {
   return(
     <div className='Age-wrapper'>
       <p style={{'display':'inline', 'padding':'0 0.5em'}}>Age:</p>
-      <input name='fage' type='number' style={inputStyles}/>
+      <input
+        name='fage'
+        type='number'
+        style={inputStyles}
+        onChange={props.firstAge}/>
       <p style={{'display':'inline', 'padding':'0 0.5em'}}>to</p>
-      <input name='lage' type='number' style={inputStyles}/>
+      <input
+        name='lage'
+        type='number'
+        style={inputStyles}
+        onChange={props.lastAge}/>
     </div>
   );
 }
