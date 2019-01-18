@@ -17,8 +17,8 @@ const GenderInput = (props) => {
         onChange={props.gender}
         style={inputStyles}>
         <option label='Gender'></option>
-        <option label='Male' value='male'></option>
-        <option label='Female' value='female'></option>
+        <option label='Male' value='2'></option>
+        <option label='Female' value='1'></option>
       </select>
     </div>
 
