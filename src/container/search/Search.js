@@ -15,7 +15,7 @@ class Search extends Component {
       firstAge: '',
       lastAge: '',
       gender: '',
-      filterData: {},
+      filterData: [],
       invalidSelection: ''
     }
     this.onChangeHandler = this.onChangeHandler.bind(this);
@@ -49,9 +49,11 @@ class Search extends Component {
 
         const searchData = getData(this.state.firstAge, this.state.lastAge,
           this.state.gender, json_data);
+          console.log(searchData);
 
           this.setState({
-            invalidSelection: false
+            invalidSelection: false,
+            filterData: searchData
           });
       }
 
@@ -93,4 +95,5 @@ function getData(firstAge, lastAge, gender, data) {
             (entry['Gender (enum)'] === gender) );
   });
   console.log(filteredData);
+  return filteredData;
 }
